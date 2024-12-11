@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Timing Instruments",
+    "description": "",
+    "home_page_url": "https://timinginstruments.com",
+    "feed_url": "https://timinginstruments.com/feed.json",
+    "user_comment": "",
+    "icon": "https://timinginstruments.com/media/website/1.png",
+    "author": {
+        "name": "Omar Shehab"
+    },
+    "items": [
+    ]
+}
